@@ -205,7 +205,7 @@ export default function Home() {
               Sleep and Feeding Schedule Controller
             </h1>
             <p className="text-blue-100 text-center mt-2 max-w-2xl mx-auto">
-              Enter your child's wake-up time, and we'll generate an optimized sleep and feeding schedule.
+              Enter your child&apos;s wake-up time, and we&apos;ll generate an optimized sleep and feeding schedule.
             </p>
           </div>
           
@@ -284,7 +284,7 @@ export default function Home() {
             {/* Schedule Results */}
             {schedule && (
               <div className="border-t border-gray-200 pt-8">
-                <h2 className="text-2xl font-bold text-gray-800 mb-6">Your Child's Daily Schedule</h2>
+                <h2 className="text-2xl font-bold text-gray-800 mb-6">Your Child&apos;s Daily Schedule</h2>
                 
                 <div className="grid gap-6 md:grid-cols-2">
                   <div className="bg-gradient-to-br from-sky-50 to-blue-100 p-5 rounded-lg border-l-4 border-blue-500 shadow-sm">
