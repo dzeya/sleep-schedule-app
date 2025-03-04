@@ -131,7 +131,7 @@ export default function ResearchPage() {
                 <li className="flex items-start bg-gradient-to-r from-white to-amber-50 p-3 rounded-md transition-transform hover:scale-[1.01] shadow-sm">
                   <span className="inline-block w-6 h-6 rounded-full bg-amber-100 text-amber-600 flex-shrink-0 flex items-center justify-center mr-3 font-bold">🍼</span>
                   <div>
-                    <strong className="text-gray-900">Associations (Bottle, Pacifier)</strong>: Falling asleep only with a bottle or pacifier means the baby relies on that "prop" to return to sleep when they wake in the lighter early‐morning hours.
+                    <strong className="text-gray-900">Associations (Bottle, Pacifier)</strong>: Falling asleep only with a bottle or pacifier means the baby relies on that &quot;prop&quot; to return to sleep when they wake in the lighter early‐morning hours.
                   </div>
                 </li>
               </ul>
@@ -171,7 +171,7 @@ export default function ResearchPage() {
               
               <div className="bg-purple-50 border-l-4 border-purple-500 p-4 mb-6 rounded-r-md">
                 <p className="text-purple-800 font-medium">
-                  Making the right adjustments to your baby's sleep schedule can dramatically improve their morning wake time.
+                  Making the right adjustments to your baby&apos;s sleep schedule can dramatically improve their morning wake time.
                   These evidence-based strategies have helped thousands of parents.
                 </p>
               </div>
@@ -189,7 +189,7 @@ export default function ResearchPage() {
                 <li className="flex items-start bg-gradient-to-r from-white to-indigo-50 p-3 rounded-md transition-transform hover:scale-[1.01] shadow-sm">
                   <span className="inline-block w-6 h-6 rounded-full bg-indigo-100 text-indigo-600 flex-shrink-0 flex items-center justify-center mr-3 font-bold">↔️</span>
                   <div>
-                    <strong className="text-gray-900">If</strong> the baby's current night sleep is only 9 hours, gradually shift more sleep to nighttime by <strong className="text-gray-900">shortening overly long naps</strong> or <strong className="text-gray-900">putting baby to bed a bit earlier</strong> (but not so early that they wake at 4:00 AM).
+                    <strong className="text-gray-900">If</strong> the baby&apos;s current night sleep is only 9 hours, gradually shift more sleep to nighttime by <strong className="text-gray-900">shortening overly long naps</strong> or <strong className="text-gray-900">putting baby to bed a bit earlier</strong> (but not so early that they wake at 4:00 AM).
                   </div>
                 </li>
               </ul>
@@ -201,13 +201,13 @@ export default function ResearchPage() {
                 <li className="flex items-start bg-gradient-to-r from-white to-blue-50 p-3 rounded-md transition-transform hover:scale-[1.01] shadow-sm">
                   <span className="inline-block w-6 h-6 rounded-full bg-blue-100 text-blue-600 flex-shrink-0 flex items-center justify-center mr-3 font-bold">1</span>
                   <div>
-                    <strong className="text-gray-900">First Nap</strong>: Don't start it too soon after an early wakeup. Ideally, <strong className="text-gray-900">not before 8:00 AM</strong> at 7–8 months. This helps break the habit of extending night sleep into the morning.
+                    <strong className="text-gray-900">First Nap</strong>: Don&apos;t start it too soon after an early wakeup. Ideally, <strong className="text-gray-900">not before 8:00 AM</strong> at 7–8 months. This helps break the habit of extending night sleep into the morning.
                   </div>
                 </li>
                 <li className="flex items-start bg-gradient-to-r from-white to-blue-50 p-3 rounded-md transition-transform hover:scale-[1.01] shadow-sm">
                   <span className="inline-block w-6 h-6 rounded-full bg-blue-100 text-blue-600 flex-shrink-0 flex items-center justify-center mr-3 font-bold">2</span>
                   <div>
-                    <strong className="text-gray-900">Second Nap</strong>: Typically the "main" or longest daytime nap (1.5–2 hours).
+                    <strong className="text-gray-900">Second Nap</strong>: Typically the &quot;main&quot; or longest daytime nap (1.5–2 hours).
                   </div>
                 </li>
                 <li className="flex items-start bg-gradient-to-r from-white to-blue-50 p-3 rounded-md transition-transform hover:scale-[1.01] shadow-sm">
@@ -280,7 +280,7 @@ export default function ResearchPage() {
                 <li className="flex items-start bg-gradient-to-r from-white to-gray-50 p-3 rounded-md transition-transform hover:scale-[1.01] shadow-sm">
                   <span className="inline-block w-6 h-6 rounded-full bg-gray-300 text-gray-600 flex-shrink-0 flex items-center justify-center mr-3 font-bold">🔊</span>
                   <div>
-                    <strong className="text-gray-900">White Noise</strong>: A steady, gentle "shhh" sound can mask early‐morning house or street noise.
+                    <strong className="text-gray-900">White Noise</strong>: A steady, gentle &quot;shhh&quot; sound can mask early‐morning house or street noise.
                   </div>
                 </li>
                 <li className="flex items-start bg-gradient-to-r from-white to-gray-50 p-3 rounded-md transition-transform hover:scale-[1.01] shadow-sm">
@@ -314,7 +314,7 @@ export default function ResearchPage() {
                 <li className="flex items-start bg-gradient-to-r from-white to-yellow-50 p-3 rounded-md transition-transform hover:scale-[1.01] shadow-sm">
                   <span className="inline-block w-6 h-6 rounded-full bg-yellow-100 text-yellow-600 flex-shrink-0 flex items-center justify-center mr-3 font-bold">⚠️</span>
                   <div>
-                    <strong className="text-gray-900">Don't change everything at once</strong> (e.g., dropping two night feeds, moving all naps, and adjusting bedtime simultaneously).
+                    <strong className="text-gray-900">Don&apos;t change everything at once</strong> (e.g., dropping two night feeds, moving all naps, and adjusting bedtime simultaneously).
                   </div>
                 </li>
                 <li className="flex items-start bg-gradient-to-r from-white to-yellow-50 p-3 rounded-md transition-transform hover:scale-[1.01] shadow-sm">
@@ -356,7 +356,7 @@ export default function ResearchPage() {
                 <li className="flex items-start bg-gradient-to-r from-white to-violet-50 p-3 rounded-md transition-transform hover:scale-[1.01] shadow-sm">
                   <span className="inline-block w-6 h-6 rounded-full bg-violet-100 text-violet-600 flex-shrink-0 flex items-center justify-center mr-3 font-bold">🌙</span>
                   <div>
-                    <strong className="text-gray-900">Morning Wakeup</strong>: If your baby wakes at 5:00 AM, keep the room dark and quiet. Avoid turning on lights or starting the day. Show them it's still "night." Over time, they may sleep or rest until closer to 6:00 or 7:00 AM.
+                    <strong className="text-gray-900">Morning Wakeup</strong>: If your baby wakes at 5:00 AM, keep the room dark and quiet. Avoid turning on lights or starting the day. Show them it&apos;s still &quot;night.&quot; Over time, they may sleep or rest until closer to 6:00 or 7:00 AM.
                   </div>
                 </li>
               </ul>
@@ -390,7 +390,7 @@ export default function ResearchPage() {
               
               <div className="p-5 bg-gradient-to-r from-blue-50 to-indigo-50 rounded-lg shadow-sm mb-5 border border-blue-100">
                 <p className="mb-5 text-gray-800">
-                  By balancing total daily sleep, spacing naps wisely, gradually reducing unnecessary night feeds, and ensuring the right environment for rest, you can often <strong className="text-indigo-700 font-bold">shift a baby's morning wake time to 6:00 or 7:00 AM.</strong> Consistency is key, and small, steady steps typically yield better results than abrupt overhauls.
+                  By balancing total daily sleep, spacing naps wisely, gradually reducing unnecessary night feeds, and ensuring the right environment for rest, you can often <strong className="text-indigo-700 font-bold">shift a baby&apos;s morning wake time to 6:00 or 7:00 AM.</strong> Consistency is key, and small, steady steps typically yield better results than abrupt overhauls.
                 </p>
                 
                 <p className="text-gray-800">

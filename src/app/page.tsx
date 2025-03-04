@@ -323,7 +323,7 @@ export default function Home() {
               Sleep and Feeding Schedule Controller
             </h2>
             <p className="text-indigo-100">
-              Enter your child's wake-up time, and we'll generate an optimized sleep and feeding schedule.
+              Enter your child&apos;s wake-up time, and we&apos;ll generate an optimized sleep and feeding schedule.
             </p>
           </div>
 
@@ -454,10 +454,10 @@ export default function Home() {
             <div className="bg-gradient-to-r from-indigo-600 to-blue-600 text-white p-6">
               <h2 className="text-2xl font-bold mb-2 flex items-center">
                 <BedDouble className="mr-3 h-6 w-6" />
-                Your Child's Daily Schedule (Guideline)
+                Your Child&apos;s Daily Schedule (Guideline)
               </h2>
               <p className="text-indigo-100 text-sm">
-                This schedule can be adjusted ±15 minutes based on your baby's cues and energy levels.
+                This schedule can be adjusted ±15 minutes based on your baby&apos;s cues and energy levels.
               </p>
             </div>
 
@@ -626,7 +626,7 @@ export default function Home() {
 
         <footer className="mt-12 text-center text-gray-600 text-sm bg-white/40 backdrop-blur-sm rounded-xl p-4 shadow-sm">
           <p>© {new Date().getFullYear()} Baby Sleep Schedule Builder. All rights reserved.</p>
-          <p className="mt-1">Designed to help parents optimize their baby's sleep patterns.</p>
+          <p className="mt-1">Designed to help parents optimize their baby&apos;s sleep patterns.</p>
         </footer>
       </div>
     </main>
